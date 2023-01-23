@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Josue650
 - 👀 I’m interested in learnig new programming skills
-- 🌱 I’m currently larning React and Python
-- 💞️ I’m looking to collaborate on homework assignments and projects
+- 🌱 I’m currently learning React and Python
+- 💞️ I’m looking to collaborate on new apps and projects
 - 📫 How to reach me cuellarjosue3@gmail.com
 
 <!---
